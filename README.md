@@ -6,7 +6,7 @@
 
 [EXP](./exp.md)
 
-![STAR](./exp.jpeg)
+![exp](./exp.jpg)
 
 ![HEALTH](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.juimg.com%2Ftuku%2Fyulantu%2F140703%2F330746-140f301555752.jpg&refer=http%3A%2F%2Fimg.juimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622261636&t=f41534f6aea8eeb80620a5fab9a2d13d)
 
